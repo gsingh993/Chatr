@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1069743065100",
+    "firebase_url": "https://chatr-ebe8a.firebaseio.com",
+    "project_id": "chatr-ebe8a",
+    "storage_bucket": "chatr-ebe8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069743065100:android:9d2a8f9cfbde7809",
+        "android_client_info": {
+          "package_name": "com.example.gurjitsingh3499.chatr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069743065100-93uchkjej1ajdjc1h2tpr8pf62ra8ec4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnDX-zAFSYJ95Rl8WIg9NQNGRYAE51flI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
